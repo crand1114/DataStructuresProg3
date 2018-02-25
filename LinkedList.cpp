@@ -85,7 +85,6 @@ void LinkedList::DeleteAll(ElementType x) {                    //deletes all ins
 }
 void LinkedList::Display(string type){                         //method displays the data values in the linked list depending on user input
 Node*nxtNode=first;
-Node*dummy=NULL;
 string numChar;
     if(type=="odd"){                                         //goes through linked list to find even data values
         while(nxtNode!=NULL){                                 //if the length of the data value has a remainder of 1 then it is odd
