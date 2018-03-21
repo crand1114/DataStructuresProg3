@@ -1,3 +1,10 @@
+# Student: Charles Randall
+
+- Shuffle(), Sort(),  & Median() -12
+- DeleteAll() not working properly -3
+
+# Grade: 85
+
 # Assignment #3: Linked List
 
 *Due **Friday, February 23rd, 2017 @ 11:59PM EST***
